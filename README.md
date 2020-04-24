@@ -16,4 +16,4 @@ Technologies used to create the application include:
 
  ## Preview: 
 
- ![sample](/Assets/README-preview.PNG)
+ ![sample](/Assets/README-Preview.PNG)
